@@ -10,3 +10,8 @@ A Python program to create a confusion matrix made by predictions from a logisti
 - `numpy` module (`pip install numpy`)
 - `matplotlib` module (`pip install matplotlib`)
 - Python 3
+
+## Implementation
+
+- Run `python3 Confusion_Matrix.py` in a terminal if you have MacOS/Linux.
+- Run `python Confusion_Matrix.py` in a terminal if you have Windows.
